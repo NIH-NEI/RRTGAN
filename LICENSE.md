@@ -2,7 +2,7 @@ NEI Software Distribution Agreement
 
 - DEFINITIONS: AUTHOR(S) Vineeta Das and Johnny Tam, National Eye Institute (NEI), National Institutes of Health (NIH).
 - PROVIDER: the National Eye Institute (NEI), a participating institute of the National Institutes of Health (NIH), and an agency of the United States Government.
-- SOFTWARE: the human readable source code form, the machine readable, binary, object code form, and the related documentation for the modules of the Residual In Residual Transformer Generative Adversarial Network (RRTGAN) software package, which an artificial intelligence (AI) method  for enhancing cone visualization from sparsely sampled adaptive optics optical coherence tomography (AOOCT) images.
+- SOFTWARE: the human readable source code form, the machine readable, binary, object code form, and the related documentation for the modules of the Residual in Residual Transformer Generative Adversarial Network (RRTGAN) software package, which an artificial intelligence (AI) method  for enhancing cone visualization from sparsely sampled adaptive optics optical coherence tomography (AOOCT) images.
 - RECIPIENT: the party that downloads the software.
 
 By downloading or otherwise receiving the SOFTWARE, RECIPIENT may use and/or redistribute the SOFTWARE, with or without modification, subject to RECIPIENTâ€™s agreement to the following terms:
